@@ -1,0 +1,21 @@
+{
+	"name": "mongoose.learn",
+	"version": "0.0.0",
+	"description": "学习mongoose操作mongodb数据库",
+	"main": "app.js",
+	"scripts": {
+		"test": "node-dev app.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/EchoFUN/mongoose.learn.git"
+	},
+	"dependencies": {
+		"express": "latest",
+		"mongoose": "latest"
+	},
+	"author": "XU Kai (xukai.ken@gmail.com)",
+	"license": "BSD",
+	"readmeFilename": "README.md",
+	"gitHead": "c3a03ebb3504c842811dd3743b8e1a360c47f3bd"
+}
